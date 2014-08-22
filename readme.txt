@@ -13,4 +13,9 @@ git branch -d mybranch //delete a branch
 git checkout mybranch //change to a branch
 git checkout -b mybranch //create and change to a branch
 
+// add remote site
+git remote add origin https://github.com/fphivedev/gitbasics.git // origin is default
+git push -u origin master // default and current branch
+
+
 [esc]:wq - to save and get out of vim
