@@ -10,3 +10,5 @@ git diff --staged //staged changes
 git branch mybranch //create a branch
 git checkout mybranch //change to a branch
 git checkout -b mybranch //create and change to a branch
+
+[esc]:qw - to save and get out of vim
